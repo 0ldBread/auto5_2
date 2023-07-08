@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/4mr55dht2ix9wbuy?svg=true)](https://ci.appveyor.com/project/0ldBread/auto5-2)
+[![Java CI with Gradle](https://github.com/0ldBread/auto5_2/actions/workflows/gradle.yml/badge.svg)](https://github.com/0ldBread/auto5_2/actions/workflows/gradle.yml)
